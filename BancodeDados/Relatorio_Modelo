@@ -1,0 +1,9 @@
+ Integrantes do grupo: Beatrice Kaku, Fernando Brocco, Jessica Prandini, Maiar Darweesh, Michael Silva, Rafael Alves, Thamiris Lisboa
+
+ Criamos 3 tabelas, a tabela de categorias, produtos e usuários. 
+
+ A tabela de categorias colocamos produtos e cursos, pois nosso e-commerce vai oferecer cursos para as pessoas vulneráveis e produtos, que serão provenientes de doações. 
+
+ A tabela de produtos terá o nome do produto, a descrição do que é o produto, a quantidade de produtos disponíveis, o preço do produto e a foto do produto. 
+
+ Por fim na tabela de usuários terá o email do usuário, a senha para acessar o e-commerce, o nome do usuário, o CPF, a data de nascimento e por fim se ele vai ser voluntário ou não. O voluntário poderia oferecer cursos, doar produtos e recolher os produtos de doações.  
